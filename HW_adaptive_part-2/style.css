@@ -1,4 +1,53 @@
 .wrapper {
-	margin: 0;
-	padding: 0;	
+	/*margin: 5px;*/
+	/*padding: 5px;*/
+	/*border: 1px solid black;*/
+	/*display: flex;*/
+	/*align-items: center;*/
+	/*justify-content: center;*/
+	height: 100%;
+}
+
+.row {
+	/*margin: 5px;*/
+	/*padding: 5px;*/
+	/*border: 1.5px solid green;*/
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+.element {
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid red;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 8.333333333;
+}
+.row-1 {
+}
+.row-2 {
+}
+.row-3 {
+}
+.row-4 {
+}
+.row-5 {
+}
+.row-6 {
+}
+.row-7 {
+}
+.row-8 {
+}
+.row-9 {
+}
+.row-10 {
+}
+.row-11 {
+}
+.row-12 {
 }
